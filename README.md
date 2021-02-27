@@ -1,6 +1,7 @@
 ## This repo describes a nextjs redux bug.
 
-### Summary: dispatch actions do not update redux state if placed inside a useEffect in dynamic routes or routes with url params.
+### Summary:
+dispatch actions do not update redux state if placed inside a useEffect in dynamic routes or routes with url params.
 
 ### Setup:
 ```
